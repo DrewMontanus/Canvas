@@ -1,0 +1,12 @@
+import turtle
+
+t = turtle.Turtle()
+s = turtle.Screen()
+
+def n_poly(side_length, sides):
+  for side in sides:
+    name.forward(side_length)
+    name.left(360/sides)
+
+turtle.done()
+turtle.bye()
